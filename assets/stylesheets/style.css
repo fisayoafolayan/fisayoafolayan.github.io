@@ -44,7 +44,7 @@ canvas {
   	margin-top: 150px;
   	position: absolute;
   	border-left: 3px;
-  	border-left-style: solid;
+  	/*border-left-style: solid;*/
   	height: 400px;
 
   	}
